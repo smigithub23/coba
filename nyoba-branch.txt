@@ -1,0 +1,6 @@
+nyoba branch dulu
+
+- web
+- apk
+- server
+- ai
